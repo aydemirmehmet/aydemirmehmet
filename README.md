@@ -58,104 +58,77 @@ class MehmetAydemir:
 
         ## 🚀 What I Do
 
-        ### 💼 Freelance Services
+        ### 💼 Services & Solutions
 
         #### 🧠 AI Integration & Consulting
-        Transform your business with custom AI solutions. From intelligent chatbots to complex automation systems, I build AI that delivers real ROI.
+        Building custom AI solutions that deliver measurable results. From intelligent chatbots to complex automation systems, I focus on practical implementations that solve real business problems.
 
-        **What you get:**
-        - Custom LLM integration (GPT, Claude, etc.)
+        **Key areas:**
+        - Custom LLM integration and fine-tuning
         - - RAG systems for knowledge management
-          - - Intelligent automation workflows
-            - - AI strategy & implementation roadmap
+          - - Intelligent workflow automation
+            - - AI strategy and architecture design
              
-              - #### ⚡ Rapid MVP Development
-              - Turn your idea into a working product in 2-4 weeks. AI-powered, modern tech stack, built to scale from day one.
+              - #### ⚡ Rapid Prototyping & MVPs
+              - Turning ideas into working prototypes quickly. Leveraging modern AI tools and frameworks to validate concepts and get products to market faster.
              
-              - **Perfect for:**
-              - - Startups validating ideas
-                - - Businesses testing new markets
-                  - - Entrepreneurs launching SaaS products
-                   
-                    - #### 🎓 Technical Training & Mentorship
-                    - Prepare your team for the AI era. Hands-on workshops, code reviews, and best practices from real-world projects.
-                   
-                    - **Topics include:**
-                    - - LLM integration patterns
-                      - - AI system architecture
-                        - - Production deployment strategies
-                          - - Prompt engineering mastery
-                           
-                            - #### 🎯 Custom Software Solutions
-                            - Full-stack development with an AI-first approach. Web, mobile, APIs—built with cutting-edge technology.
-                           
-                            - **Specialties:**
-                            - - AI-powered web applications
-                              - - Intelligent data processing pipelines
-                                - - API development & integration
-                                  - - Cloud-native architecture
-                                   
-                                    - ---
+              - #### 🎓 Technical Mentorship
+              - Sharing knowledge with developers looking to integrate AI into their projects. Hands-on guidance on LLM integration, prompt engineering, and AI system design.
+             
+              - #### 🔧 Full-Stack Development
+              - Building production-ready applications with AI at the core. Modern web technologies combined with intelligent automation.
+             
+              - ---
 
-                                    ## 🌟 Why Work With Me?
+              ## 🌟 What Drives Me
 
-                                    ✅ **AI Expertise** — Deep knowledge of modern AI tools and frameworks
-                                    ✅ **Fast Delivery** — Efficient processes, rapid turnaround times
-                                    ✅ **Production Quality** — Code that's scalable, maintainable, and robust
-                                    ✅ **Clear Communication** — Regular updates, transparent workflow
-                                    ✅ **Business-Focused** — Solutions that drive real value, not just cool tech
-                                    ✅ **Global Experience** — Working across time zones and cultures
+              ✨ **Innovation** — Exploring the cutting edge of AI and finding practical applications
+              🎯 **Impact** — Building solutions that make a real difference
+              🤝 **Collaboration** — Working with talented people on challenging problems
+              📚 **Learning** — Staying current in this rapidly evolving field
+              🌍 **Open Source** — Contributing back to the community
 
-                                    ---
+              ---
 
-                                    ## 📊 GitHub Activity
+              ## 📊 GitHub Activity
 
-                                    <div align="center">
+              <div align="center">
 
-                                    ![](https://github-readme-stats.vercel.app/api?username=aydemirmehmet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+              ![](https://github-readme-stats.vercel.app/api?username=aydemirmehmet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
-                                    ![](https://github-readme-streak-stats.herokuapp.com/?user=aydemirmehmet&theme=tokyonight&hide_border=true&background=0D1117)
+              ![](https://github-readme-streak-stats.herokuapp.com/?user=aydemirmehmet&theme=tokyonight&hide_border=true&background=0D1117)
 
-                                    </div>
+              </div>
 
-                                    ---
+              ---
 
-                                    ## 🎯 2026 Goals
+              ## 🎯 Current Focus (2026)
 
-                                    🚀 Deliver 50+ successful AI projects
-                                    🌍 Build solutions for clients worldwide
-                                    💡 Contribute to open-source AI tools
-                                    📚 Share knowledge through technical content
-                                    🤝 Mentor aspiring AI engineers
+              🔬 Exploring advanced RAG architectures and agent-based systems
+              🚀 Building production-ready AI applications with real-world impact
+              🌍 Contributing to open-source AI tools and frameworks
+              📝 Sharing insights and learnings with the developer community
+              🤝 Collaborating on innovative AI projects
 
-                                    ---
+              ---
 
-                                    ## 💬 Let's Work Together
+              ## 💬 Let's Connect
 
-                                    **I'm currently available for new projects!**
+              I'm always interested in connecting with fellow developers, discussing AI projects, or exploring collaboration opportunities.
 
-                                    If you're looking to:
-                                    - 🎯 Transform your business with AI
-                                    - - ⚡ Build an MVP quickly and efficiently
-                                      - - 🤝 Find a reliable long-term technology partner
-                                        - - 💡 Turn a crazy AI idea into reality
-                                         
-                                          - **Let's talk!** 👇
-                                         
-                                          - 📧 **Email:** coderaydemir@gmail.com
-                                          - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/mehmetaydemir)
-                                          - 📍 **Location:** Eskişehir, Turkey 🇹🇷
-                                          - 🌍 **Work Style:** Remote & Hybrid
-                                          - 💰 **Pricing:** Competitive & project-based
-                                         
-                                          - ---
+              📧 **Email:** coderaydemir@gmail.com
+              💼 **LinkedIn:** [linkedin.com/in/mehmetaydemir](https://linkedin.com/in/mehmetaydemir)
+              📍 **Location:** Eskişehir, Turkey 🇹🇷
+              🌍 **Open to:** Remote collaboration, consulting, and interesting projects
 
-                                          <div align="center">
+              ---
 
-                                          ### ✨ *"Code is poetry, AI is the future, together we create magic"*
+              <div align="center">
 
-                                          **Made with ❤️ and AI**
+              ### ✨ *"Code is poetry, AI is the future, together we create magic"*
 
-                                          ![](https://komarev.com/ghpvc/?username=aydemirmehmet&color=blueviolet&style=flat-square)
+              **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.**
 
-                                          </div>
+              ![](https://komarev.com/ghpvc/?username=aydemirmehmet&color=blueviolet&style=flat-square)
+
+              </div>
