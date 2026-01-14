@@ -90,45 +90,53 @@ class MehmetAydemir:
 
               ---
 
-              ## 📊 GitHub Activity
+              ## 💼 My Work Approach
 
-              <div align="center">
+              🔒 **Most of my work happens in private repositories** — I work extensively with clients on confidential projects, production systems, and proprietary AI solutions. This means my GitHub activity graph doesn't reflect the full scope of my daily coding and development work.
 
-              ![](https://github-readme-stats.vercel.app/api?username=aydemirmehmet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+              **What I'm actively working on:**
+              - 🏢 Client projects under NDA
+              - - 🤖 Production AI systems and automations
+                - - 🔧 Custom LLM integrations
+                  - - 📊 Enterprise-scale applications
+                   
+                    - **Why private repositories?**
+                    - - Client confidentiality and intellectual property protection
+                      - - Production code for sensitive business applications
+                        - - Proprietary AI implementations and algorithms
+                          - - Pre-release projects and beta testing
+                           
+                            - 💡 *Interested in my work? The best way to understand my capabilities is through a conversation. Feel free to reach out!*
+                           
+                            - ---
 
-              ![](https://github-readme-streak-stats.herokuapp.com/?user=aydemirmehmet&theme=tokyonight&hide_border=true&background=0D1117)
+                            ## 🎯 Current Focus (2026)
 
-              </div>
+                            🔬 Exploring advanced RAG architectures and agent-based systems
+                            🚀 Building production-ready AI applications with real-world impact
+                            🌍 Contributing to open-source AI tools and frameworks
+                            📝 Sharing insights and learnings with the developer community
+                            🤝 Collaborating on innovative AI projects
 
-              ---
+                            ---
 
-              ## 🎯 Current Focus (2026)
+                            ## 💬 Let's Connect
 
-              🔬 Exploring advanced RAG architectures and agent-based systems
-              🚀 Building production-ready AI applications with real-world impact
-              🌍 Contributing to open-source AI tools and frameworks
-              📝 Sharing insights and learnings with the developer community
-              🤝 Collaborating on innovative AI projects
+                            I'm always interested in connecting with fellow developers, discussing AI projects, or exploring collaboration opportunities.
 
-              ---
+                            📧 **Email:** coderaydemir@gmail.com
+                            💼 **LinkedIn:** [linkedin.com/in/mehmetaydemir](https://linkedin.com/in/mehmetaydemir)
+                            📍 **Location:** Eskişehir, Turkey 🇹🇷
+                            🌍 **Open to:** Remote collaboration, consulting, and interesting projects
 
-              ## 💬 Let's Connect
+                            ---
 
-              I'm always interested in connecting with fellow developers, discussing AI projects, or exploring collaboration opportunities.
+                            <div align="center">
 
-              📧 **Email:** coderaydemir@gmail.com
-              💼 **LinkedIn:** [linkedin.com/in/mehmetaydemir](https://linkedin.com/in/mehmetaydemir)
-              📍 **Location:** Eskişehir, Turkey 🇹🇷
-              🌍 **Open to:** Remote collaboration, consulting, and interesting projects
+                            ### ✨ *"Code is poetry, AI is the future, together we create magic"*
 
-              ---
+                            **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.**
 
-              <div align="center">
+                            ![](https://komarev.com/ghpvc/?username=aydemirmehmet&color=blueviolet&style=flat-square)
 
-              ### ✨ *"Code is poetry, AI is the future, together we create magic"*
-
-              **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.**
-
-              ![](https://komarev.com/ghpvc/?username=aydemirmehmet&color=blueviolet&style=flat-square)
-
-              </div>
+                            </div>
